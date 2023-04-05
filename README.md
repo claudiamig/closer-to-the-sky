@@ -14,11 +14,31 @@ This project is being introduced in Ninho das Águias, a social-cultural project
 
 Ninho das Águias was designed by the urban artist Acme, dweller of the community. It promotes extracurricular courses for childreen and teenagers of PPG, such as art and dance classes, also classes of astronomy and english. 
 
+### Friday classes
+
+### Library
+The project hosts a library that aims to stimulate reading among children and tenagers from PPG. Futhermore, it holds material, with founding from International Astronomiacal Union, that presents marginalized communities as leading figures of the scientific process.
+
+
 ## Next Steps
 
 
 
 ## Contributors
+- INAF National Institute for Astrophysics 
+- Institute of Physics (Universidade Federal do Rio de Janeiro)
+- Observatory of Valongo (Universidade Federal do Rio de Janeiro)
+
+
 
 
 ## Our Team
+- Claudia Mignone
+> Researcher in science outreach and public engagement at INAF National Institute for Astrophysics (inaf.it)
+- Arianna Cortesi
+> Professor of Astrophysics at Institute of Physics (Universidade Federal do Rio de Janeiro)
+- Gabriela Rufino Travassos
+> Undergraduate Student in Astronomy at Observatory of Valongo (Universidade Federal do Rio de Janeiro)
+- Maria Clara Heringer Lourenço
+> Undergraduate Student in Astronomy at Observatory of Valongo (Universidade Federal do Rio de Janeiro) 
+
