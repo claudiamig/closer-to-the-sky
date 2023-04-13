@@ -16,7 +16,7 @@ Ninho das Águias was designed by the urban artist Acme, dweller of the communit
 
 ### Friday classes
 
-(Add text here)
+Every Friday, starting May 2023, we offer free astronomy classes at Ninho das Águias for children between 14-19 years old.
 
 ### Library
 The project hosts a library that aims to stimulate reading among children and tenagers from PPG. Futhermore, it holds material, thanks to funding from the International Astronomical Union, that presents marginalized communities as leading figures of the scientific process.
@@ -28,7 +28,7 @@ A part of our project involves enriching the library, acquiring existing books b
 
 - We aim at including artists of the PPG favela in the development of the project, contributing as course teachers as well as in the development of the course material. 
 - We are collaborating with AstroTribe, a project run in India to train astro-tourism guides. We aim at building a bridge between kids in social vulnerability in Rio de Janeiro (Brasil) and Pune (Índia), training astro-guides in the PPG favela.
-- In order to sustain these two parts of the project, we plan to submit funding proposals to the International Astronomical Union's Office of AAstronomy for Development, as well as other funding bodies in Brazil and abroad.
+- In order to sustain these two parts of the project, we plan to submit funding proposals to the International Astronomical Union's Office of Astronomy for Development, as well as other funding bodies in Brazil and abroad.
 
 
 
@@ -44,12 +44,12 @@ A part of our project involves enriching the library, acquiring existing books b
 - (Eventually: children and adults living in other favelas in Rio)
 
 ## Our Team
-- Claudia Mignone
-> Researcher in science outreach and public engagement at INAF National Institute for Astrophysics, Italy (inaf.it)
 - Arianna Cortesi
 > Professor of Astrophysics at Institute of Physics (Universidade Federal do Rio de Janeiro)
 - Gabriela Rufino Travassos
 > Undergraduate Student in Astronomy at Observatory of Valongo (Universidade Federal do Rio de Janeiro)
 - Maria Clara Heringer Lourenço
 > Undergraduate Student in Astronomy at Observatory of Valongo (Universidade Federal do Rio de Janeiro) 
+- Claudia Mignone
+> Researcher in astronomy outreach and public engagement at INAF National Institute for Astrophysics, Italy (inaf.it)
 
