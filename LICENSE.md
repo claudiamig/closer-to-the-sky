@@ -1,11 +1,13 @@
+# License
+
 **This is a DRAFT of the license for the Closer to the Sky project.**
+
 *Please DO NOT consider as final. May be subject to adjustments*
 
 The Closer to the Sky project makes its process documents and educational resources under open source licenses.
 In particular, documentstion of the project and course material are available under a CC-BY-SA-NC license.
-Artwork and any other original products created by its users and contributors are and remain their creator's intellectual property and may be shared on a case by case basis.
 
-The license text listed below is in part based on the license of [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)
+This license does not however apply to artwork, media products and any other original content produced by users and contributors. The creators retain full ownership of their content, which they might choose to share under different licenses on a case by case basis.
 
 ## Process documents and data
 
@@ -38,6 +40,11 @@ With the understanding that:
 ## Artwork and any other original content created by users and contributors
 
 The Closer to the Sky project aims at co-creating knowledge building bridges between scientific/academic institutions and marginalised communities. 
-Whereas all project documentation and educational material are meant for wide dissemination, to be suitably adapted and replicated in similar contexts elsewhere, the artwork, media products and any other original content created by users and contributors of the projects are protected as their creator's intellectual work.
+Whereas all project documentation and educational material are meant for wide dissemination, to be suitably adapted and replicated in similar contexts elsewhere, the artwork, media products and any other original content created by users and contributors of the projects are protected as their creator's intellectual work, of which they retain full ownership.
+
 (Add here a statement on culture acknowledgment and respect)
+
 If you are interested in any of the artworks or content created by the project's users and contributors, please contact us (ADD CONTACT DETAILS) and we will get back to you with specific information.
+
+This page is in part based on the license of [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)
+
