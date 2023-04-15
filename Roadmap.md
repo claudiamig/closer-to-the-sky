@@ -13,7 +13,7 @@ To achieve our goals, we need to:
 ### Milestone: Educational resources 📚
 
 * Enriching the library
-- [X] Compile a list of books to purchase (thanks to existing IAU OAD grant)
+- [ ] Compile a list of books to purchase (thanks to existing IAU OAD grant)
 - [ ] Compile a list of digital resources to print
 - [ ] Translate digital resources if not available in portuguese
 - [ ] Create our own course material and print it in the form of a booklet 💫
