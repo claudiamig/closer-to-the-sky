@@ -29,6 +29,12 @@ To achieve our goals, we need to:
 
 > We plan to reach this sub-milestone by July 2023
 
+### Milestone: Course implementation 🌞
+- [ ] Implement course for teenagers
+- [ ] Implement course for younger children
+
+> We plan to reach this milestone by December 2023
+
 ### Milestone: Training Astro-guides 🔭
 
 - [ ] Connect with AstroTribes project in Pune (India)
