@@ -18,6 +18,16 @@ Ninho das Águias was designed by the urban artist Acme, dweller of the communit
 
 Every Friday, starting May 2023, we offer free astronomy classes at Ninho das Águias for children between 14-19 years old.
 
+The classes cover the following topics:
+* Constellations (indigenous constellations, official IAU constellations, meaning and 3D distrubition of stars)
+* Solar System
+* Stars and the stellar life cycle
+* Scales in astronomy: star clusters, galaxies, galaxy clusters
+* Origin of the Universe
+* Gravity and the Hubble law
+* Light andd the electromaagnetic spectrum
+* Heat and maagnetism
+
 ### Library
 The project hosts a library that aims to stimulate reading among children and tenagers from PPG. Futhermore, it holds material, thanks to funding from the International Astronomical Union, that presents marginalized communities as leading figures of the scientific process.
 
