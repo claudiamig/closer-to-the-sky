@@ -45,10 +45,9 @@ A part of our project involves enriching the library, acquiring existing books b
 
 ## Contributors
 - Adults living in the PPG favela
-- Acme and Iani organizers of the social project Ninho das Aguias 
+- Acme and Iani, organizers of the social project Ninho das Aguias 
 - Institute of Physics (Universidade Federal do Rio de Janeiro)
 - Observatory of Valongo (Universidade Federal do Rio de Janeiro)
-- INAF National Institute for Astrophysics (Italy)
 
 ## Users
 - Children and adults living in the PPG favela 
@@ -63,7 +62,7 @@ A part of our project involves enriching the library, acquiring existing books b
 - Maria Clara Heringer Lourenço
 > Undergraduate Student in Astronomy at Observatory of Valongo (Universidade Federal do Rio de Janeiro) 
 - Claudia Mignone
-> Researcher in astronomy outreach and public engagement at INAF National Institute for Astrophysics, Italy (inaf.it)
+> Researcher in astronomy outreach and public engagement at INAF, National Institute for Astrophysics, Italy (inaf.it)
 - Claudio Alberto Barbosa Araujo
 > PPG, voluntary professor at Ninho das Aguias
 
