@@ -20,16 +20,17 @@ Every Friday, starting May 2023, we offer free astronomy classes at Ninho das Á
 
 The classes cover the following topics:
 * Constellations (indigenous constellations, official IAU constellations, meaning and 3D distrubition of stars)
-* Solar System
-* Stars and the stellar life cycle
-* Scales in astronomy: star clusters, galaxies, galaxy clusters
+* Solar System (fix stars vs planet, kepler vs copernicus - the importance of quality data collection, the origin of water/water memories)
+* Stars and the stellar life cycle (the origin of chemical elements, what are we made of?, are we really equal?, planetary nebulae - art collaboration)  
+* Scales in astronomy: star clusters, galaxies, galaxy clusters (the distance ladder, Henrietta Levit and women in astronomy)
 * Origin of the Universe
 * Gravity and the Hubble law
-* Light andd the electromaagnetic spectrum
+* Light andd the electromaagnetic spectrum 
 * Heat and maagnetism
 
+
 ### Library
-The project hosts a library that aims to stimulate reading among children and tenagers from PPG. Futhermore, it holds material, thanks to funding from the International Astronomical Union, that presents marginalized communities as leading figures of the scientific process.
+The project hosts a library that aims to stimulate reading among children and tenagers from PPG. Futhermore, it holds material, thanks to funding from the International Astronomical Union (OruMbya: a library of silenced voices, https://www.astro4dev.org/orumbya-library-of-silenced-voices/), that presents marginalized communities as leading figures of the scientific process.
 
 A part of our project involves enriching the library, acquiring existing books based on contextualized science (i.e materials that use the context of marginalized societies as examples where we can understand, learn and make science) as well as developing our own material based in the classes, which will be printed as booklets that will be made available in the library. 
 
@@ -44,6 +45,7 @@ A part of our project involves enriching the library, acquiring existing books b
 
 ## Contributors
 - Adults living in the PPG favela
+- Acme and Iani organizers of the social project Ninho das Aguias 
 - Institute of Physics (Universidade Federal do Rio de Janeiro)
 - Observatory of Valongo (Universidade Federal do Rio de Janeiro)
 - INAF National Institute for Astrophysics (Italy)
@@ -62,4 +64,6 @@ A part of our project involves enriching the library, acquiring existing books b
 > Undergraduate Student in Astronomy at Observatory of Valongo (Universidade Federal do Rio de Janeiro) 
 - Claudia Mignone
 > Researcher in astronomy outreach and public engagement at INAF National Institute for Astrophysics, Italy (inaf.it)
+- Claudio Alberto Barbosa Araujo
+> PPG, voluntary professor at Ninho das Aguias
 
