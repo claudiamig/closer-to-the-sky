@@ -5,14 +5,31 @@
 
 
 ## Welcome
-This is an astronomy outreach project that aims at building a bridge between favelas (slums) of Rio de Janeiro and universities/research centers via a mutual enriching approach. Science dissemination and education are brought into the favela while people of the favela are invited to co-create scientific content in collaboration with students, researchers and professors. This approach promotes inclusion, values community knowledge and culture, and provides institutional support and protection to these fragile contexts.
+Welcome to Closer to the Sky 🌟 This is an astronomy outreach project that aims at building a bridge between favelas (slums) of Rio de Janeiro, Brazil and universities/research centers via a mutually enriching approach. 
 
-The potential of astronomy to inspire and fascinate scientists, artists and people around the world has been demonstrated to have a restorative power, contributing to people’s mental well-being, especially for marginalised social groups that live under extremely stressful conditions. Hence we intend to apply that potential in Rio's favelas.
+Science dissemination and education are brought into the favela while people of the favela are invited to co-create scientific content in collaboration with students, researchers and professors.
+
+This approach promotes inclusion, values community knowledge and culture, and provides institutional support and protection to these fragile contexts.
+
+## The problem
+* Brazil is a country of great inequalities, social injustice and racial segregation. 
+* In the favelas of Rio, children and teenagers have hardly any access to extracurricular courses beyond public school.
+* In Brazil and elsewhere, public outreach and education projects engaging with marginalised communities are often conducted as sporadic events, imposing a preconceived notion of science rather than fostering an equitable exchange based on mutual trust and respect. 
+
+## The solution
+The potential of astronomy to inspire and fascinate scientists, artists and people around the world has been demonstrated to have a restorative power, contributing to people’s mental well-being, especially for marginalised social groups that live under extremely stressful conditions. Hence we intend to apply that potential in Rio's favelas. 
+
+By offering extracurricular training courses and cultural experiences to children and people from the favela, engaging them in the scientific creation and providing positive role models of scientists from Afrodescendant backgrounds, we wish to enrich their school curriculum and strengthen the chance they wish to stay in education after secondary school. 
+
+## Our main goals
+* Improve mental well-being of children and teenagers in the favela
+* Promote quality education, STEM and gender equality
+* Support cultural work and empower people of the favela
 
 ## Running Actions
-This project is being introduced in Ninho das Águias, a social-cultural project from PPG favela complex, one of the city’s oldest and most densely populated slums, its origin directly linked to the slavery heritage of Brazil’s society. Located in Copacabana, it makes a huge contrast with one of the richest neighborhoods of Rio de Janeiro.
+This project is being introduced in Ninho das Águias, a social-cultural project from the [PPG favela complex](https://en.wikipedia.org/wiki/Cantagalo%E2%80%93Pav%C3%A3o%E2%80%93Pav%C3%A3ozinho), one of the city’s oldest and most densely populated slums, its origin directly linked to the slavery heritage of Brazil’s society. Located in Copacabana, it makes a huge contrast with one of the richest neighborhoods of Rio de Janeiro.
 
-Ninho das Águias was designed by the urban artist Acme, dweller of the community. It promotes extracurricular courses for children and teenagers of PPG, such as art and dance classes, as well as classes of astronomy and English. 
+[Ninho das Águias](https://universoacme.wixsite.com/ninhodasaguias/sobre) was designed by the urban artist Acme, dweller of the community. It promotes extracurricular courses for children and teenagers of PPG, such as art and dance classes, as well as classes of astronomy and English. 
 
 ### Friday classes
 
