@@ -3,7 +3,6 @@
 
 ![Badge under development](http://img.shields.io/static/v1?label=STATUS&message=under%20Development&color=GREEN&style=for-the-badge)
 
-
 ## Welcome
 Welcome to Closer to the Sky 🌟 This is an astronomy outreach project that aims at building a bridge between favelas (slums) of Rio de Janeiro, Brazil and universities/research centers via a mutually enriching approach. 
 
@@ -11,12 +10,22 @@ Science dissemination and education are brought into the favela while people of 
 
 This approach promotes inclusion, values community knowledge and culture, and provides institutional support and protection to these fragile contexts.
 
-## The problem
+This document (the README file) provides an introduction to the project:
+* [What are we doing?](#what-are-we-doing)
+* [Our main goals](#our-main-goals)
+* [Running Actions](#running-actions)
+* [Next steps](#next-steps)
+* [How can you get involved?](#how-can-you-get-involved)
+* [Our team](#our-team)
+
+## What are we doing?
+
+### The problem
 * Brazil is a country of great inequalities, social injustice and racial segregation. 
 * In the favelas of Rio, children and teenagers have hardly any access to extracurricular courses beyond public school.
 * In Brazil and elsewhere, public outreach and education projects engaging with marginalised communities are often conducted as sporadic events, imposing a preconceived notion of science rather than fostering an equitable exchange based on mutual trust and respect. 
 
-## The solution
+### The solution
 The potential of astronomy to inspire and fascinate scientists, artists and people around the world has been demonstrated to have a restorative power, contributing to people’s mental well-being, especially for marginalised social groups that live under extremely stressful conditions. Hence we intend to apply that potential in Rio's favelas. 
 
 By offering extracurricular training courses and cultural experiences to children and people from the favela, engaging them in the scientific creation and providing positive role models of scientists from Afrodescendant backgrounds, we wish to enrich their school curriculum and strengthen the chance they wish to stay in education after secondary school. 
@@ -58,15 +67,19 @@ A part of our project involves enriching the library, acquiring existing books b
 - We are collaborating with AstroTribe, a project run in India to train astro-tourism guides. We aim at building a bridge between kids in social vulnerability in Rio de Janeiro (Brasil) and Pune (Índia), training astro-guides in the PPG favela.
 - In order to sustain these two parts of the project, we plan to submit funding proposals to the International Astronomical Union's Office of Astronomy for Development, as well as other funding bodies in Brazil and abroad.
 
+## How can you get involved?
 
+If you are active in a cultural centre in a favela of Rio, or if you are a scientists at a research/academic institution in the city, get in touch with us!
 
-## Contributors
+And also if you work on similar projects elsewhere in Brazil, Latin America and the world: we would like to connect and share our experience.
+
+### Contributors
 - Adults living in the PPG favela
 - Acme and Iani, organizers of the social project Ninho das Aguias 
 - Institute of Physics (Universidade Federal do Rio de Janeiro)
 - Observatory of Valongo (Universidade Federal do Rio de Janeiro)
 
-## Users
+### Users
 - Children and adults living in the PPG favela 
 - Researchers at the scientific and academic institutions involved
 - (Eventually: children and adults living in other favelas in Rio)
