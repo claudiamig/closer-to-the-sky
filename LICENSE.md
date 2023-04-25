@@ -46,5 +46,7 @@ Whereas all project documentation and educational material are meant for wide di
 
 If you are interested in any of the artworks or content created by the project's users and contributors, please contact us (ADD CONTACT DETAILS) and we will get back to you with specific information.
 
+## Credits
+
 This page is in part based on the license of [The Turing Way](https://github.com/alan-turing-institute/the-turing-way/blob/main/LICENSE.md)
 
