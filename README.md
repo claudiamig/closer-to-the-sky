@@ -39,7 +39,7 @@ The classes cover the following topics:
 * Constellations (indigenous constellations, official IAU constellations, meaning and 3D distrubition of stars)
 * Solar System (fix stars vs planet, kepler vs copernicus - the importance of quality data collection, the origin of water/water memories)
 * Stars and the stellar life cycle (the origin of chemical elements, what are we made of?, are we really equal?, planetary nebulae - art collaboration)  
-* Scales in astronomy: star clusters, galaxies, galaxy clusters (the distance ladder, Henrietta Levit and women in astronomy)
+* Scales in astronomy: star clusters, galaxies, galaxy clusters (the distance ladder, Henrietta Leavitt and women in astronomy)
 * Origin of the Universe
 * Gravity and the Hubble law
 * Light andd the electromaagnetic spectrum 
