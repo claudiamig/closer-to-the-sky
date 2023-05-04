@@ -5,11 +5,11 @@
 
 
 ## Welcome
-Welcome to Closer to the Sky 🌟 This is an astronomy outreach project that aims at building a bridge between favelas (slums) of Rio de Janeiro, Brazil and universities/research centers via a mutually enriching approach. 
+Welcome to Closer to the Sky 🌟 This project, in the context of astronomy for development, aims at building a bridge between favelas (slums) of Rio de Janeiro, Brazil and universities/research centers via a mutually enriching approach. 
 
 Science dissemination and education are brought into the favela while people of the favela are invited to co-create scientific content in collaboration with students, researchers and professors.
 
-This approach promotes inclusion, values community knowledge and culture, and provides institutional support and protection to these fragile contexts.
+This approach promotes inclusion, values community knowledge and culture, and provides institutional support and protection, as well as economic development opportunities, to these fragile contexts.
 
 ## The problem
 * Brazil is a country of great inequalities, social injustice and racial segregation. 
@@ -21,11 +21,16 @@ The potential of astronomy to inspire and fascinate scientists, artists and peop
 
 By offering extracurricular training courses and cultural experiences to children and people from the favela, engaging them in the scientific creation and providing positive role models of scientists from Afrodescendant backgrounds, we wish to enrich their school curriculum and strengthen the chance they wish to stay in education after secondary school. 
 
-## Our main goals
-* Improve mental well-being of children and teenagers in the favela
-* Promote quality education, STEM and gender equality
+## Our main goals (and UN Sustainable Development Goals)
+* Improve mental well-being of children and teenagers in the favela 
+* Promote quality education, STEM and gender equality 
 * Support cultural work and empower people of the favela
 
+## How we plan to achieve our goals (and UN Sustainable Development Goals)
+* Create educational material with a decolonized vision of science (SDG4: Quality education; SDG10: Reduced inequalities)
+* Implement classes in the community and train astro-guides (SDG11: Sustainable cities and communities; SDG16: Peace, justice and strong institutions)
+* Support contributors from the community (SDG8: Decent work and economic growth; SDG10: Reduced inequalities)
+ 
 ## Running Actions
 This project is being introduced in Ninho das Águias, a social-cultural project from the [PPG favela complex](https://en.wikipedia.org/wiki/Cantagalo%E2%80%93Pav%C3%A3o%E2%80%93Pav%C3%A3ozinho), one of the city’s oldest and most densely populated slums, its origin directly linked to the slavery heritage of Brazil’s society. Located in Copacabana, it makes a huge contrast with one of the richest neighborhoods of Rio de Janeiro.
 
